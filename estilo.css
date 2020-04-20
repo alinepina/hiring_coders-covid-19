@@ -50,3 +50,14 @@ body {
 	text-align: center;
 	padding: 1px 0px;	
 }
+
+.contact-link {
+    display: flex;
+    margin: 0px 18px 20px 18px;
+    height: fit-content;
+    align-items: center;
+
+.contact-icon {
+    width: 32px;
+    margin-right: 8px;
+}
