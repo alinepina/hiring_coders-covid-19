@@ -1,0 +1,14 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#cabecalho {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.covid-logo{
+    padding: 23px;
+    height: 120px;
+}
