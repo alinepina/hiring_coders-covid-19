@@ -12,3 +12,10 @@ body {
     padding: 23px;
     height: 120px;
 }
+
+#navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: blueviolet
+}
